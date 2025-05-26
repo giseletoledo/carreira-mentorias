@@ -6,8 +6,17 @@ Repositório que servirá para registrar o PDI(Plano de Desenvolvimento Individu
 
 - [METAS.md](METAS.md) - Objetivos de curto/médio prazo e cronograma 
 - [PDI.md](PDI.md) - Plano de Desenvolvimento Individual detalhado 
-- [PROFISSIONAL.md](PROFISSIONAL.md) - Profissional em T            
+- [PROFISSIONAL.md](PROFISSIONAL.md) - Profissional em T
 
+
+## 🛠 Habilidades em Desenvolvimento
+```python
+skills = {
+    "Linguagens": ["Python", "SQL"],
+    "IA/ML": ["Scikit-learn", "TensorFlow", "LLMs"],
+    "Ferramentas": ["Git", "Docker", "FastAPI"]
+}
+```
 
 ### ✅ Hardskills e Softskills?
 
@@ -32,11 +41,3 @@ Repositório que servirá para registrar o PDI(Plano de Desenvolvimento Individu
 | Deep Learning (opcional)                                   | ⭐          | Não obrigatório se usar APIs prontas            |
 
 
-
-## 🛠 Habilidades em Desenvolvimento
-```python
-skills = {
-    "Linguagens": ["Python", "SQL"],
-    "IA/ML": ["Scikit-learn", "TensorFlow", "LLMs"],
-    "Ferramentas": ["Git", "Docker", "FastAPI"]
-}
