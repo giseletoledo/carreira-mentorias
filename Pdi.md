@@ -2,38 +2,18 @@
 1. 🧠 Quem sou eu hoje?
 Habilidades atuais (já desenvolvidas):
 
- Python básico/intermediário
+ - Python básico/intermediário
 
- Fundamentos de IA e estatística
+ - Fundamentos de IA e estatística
 
- Análise de dados com Pandas/Numpy
+ - Lógica de programação / Git / Linux
 
- Machine Learning supervisionado com Scikit-Learn
-
- Modelos preditivos básicos
-
- Lógica de programação / Git / Linux
-
- Soft skills (comunicação, aprendizado autônomo)
+ - Soft skills (comunicação, aprendizado autônomo)
 
 2. 🧑‍🚀 Quem quero ser no futuro?
 Objetivo: Ser um desenvolvedor especializado em Inteligência Artificial Generativa, aplicando LLMs, APIs (como OpenAI, Hugging Face)
 e técnicas de Prompt Engineering, com foco em criação de produtos e aplicações inteligentes.
 
-
-3. 🛤️ Estabelecendo metas
-✅ O que você já tem como habilidade?
-Python para Ciência de Dados
-
-Fundamentos de IA
-
-Estatística e Álgebra Linear
-
-Modelagem preditiva com Scikit-learn
-
-Conhecimento básico em Machine Learning supervisionado
-
-Soft skills (comunicação, colaboração, estudo autodirigido)
 
 ```mermaid
 graph TD
