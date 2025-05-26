@@ -4,9 +4,9 @@ Repositório que servirá para registrar o PDI(Plano de Desenvolvimento Individu
 
 # 2025
 
-- [METAS.md](METAS.md) - Objetivos de curto/médio prazo e cronograma 
-- [PDI.md](PDI.md) - Plano de Desenvolvimento Individual detalhado 
-- [PROFISSIONAL.md](PROFISSIONAL.md) - Profissional em T
+- [METAS.md](https://github.com/giseletoledo/carreira-mentorias/blob/main/Metas.md) - Objetivos de curto/médio prazo e cronograma 
+- [PDI.md](https://github.com/giseletoledo/carreira-mentorias/blob/main/Pdi.md) - Plano de Desenvolvimento Individual detalhado 
+- [PROFISSIONAL.md](https://github.com/giseletoledo/carreira-mentorias/blob/main/profissionalT.md) - Profissional em T
 
 
 ## 🛠 Habilidades em Desenvolvimento
