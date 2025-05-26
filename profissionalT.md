@@ -11,5 +11,12 @@
 
 
 
+| Habilidade                       | Relevância para o mercado | Relevância para você |
+| -------------------------------- | ------------------------- | -------------------- |
+| LLMs e APIs                      | Alta ⭐⭐⭐⭐                 | Alta ⭐⭐⭐⭐            |
+| Prompt Engineering               | Alta ⭐⭐⭐⭐                 | Alta ⭐⭐⭐⭐            |
+| Python aplicado a produtos de IA | Alta ⭐⭐⭐⭐                 | Alta ⭐⭐⭐⭐            |
+| LangChain, LlamaIndex, etc.      | Média/Alta ⭐⭐⭐            | Alta ⭐⭐⭐             |
+| Deep Learning e MLOps            | Média ⭐⭐                  | Baixa ⭐              |
 
 
